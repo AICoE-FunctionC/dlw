@@ -1,4 +1,3 @@
-#Deep Learning Worksho@
 資料作成の目的：
 この資料は、Deep Learning体験講座「感じるDeep Learning ～ポンプの稼働音から異常を検知しよう！～」のために用意した、Deep Learning入門者向けのWorkshopのために作成されたものです。
 
